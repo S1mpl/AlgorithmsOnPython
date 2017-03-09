@@ -1,4 +1,4 @@
-def GCD(a,b):
+def GCD(a, b):
     while b != 0:
         remainder = a % b
         a = b
