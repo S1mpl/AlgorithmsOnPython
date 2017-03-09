@@ -5,4 +5,5 @@ def GCD(a,b):
         b = remainder
     return a
 
+#example
 print(GCD(4851,3003))
