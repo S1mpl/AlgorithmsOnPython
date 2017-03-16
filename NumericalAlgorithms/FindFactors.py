@@ -22,5 +22,5 @@ def FindFactors(number):
 
     return factors
 
-#exampler
+#example
 print(FindFactors(12354123))
