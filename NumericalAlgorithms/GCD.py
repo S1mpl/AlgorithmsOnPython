@@ -6,4 +6,4 @@ def GCD(a, b):
     return a
 
 #example
-print(GCD(4851,3003))
+print(GCD(4851,300123123))
