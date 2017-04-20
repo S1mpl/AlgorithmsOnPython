@@ -7,4 +7,4 @@ def isPrime(p, max_tests):
 
     return True
 
-print(isPrime(3463, 10000))
+print(isPrime(3463, 10001230))

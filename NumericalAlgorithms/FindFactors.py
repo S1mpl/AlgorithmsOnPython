@@ -23,4 +23,4 @@ def FindFactors(number):
     return factors
 
 #example
-print(FindFactors(12354123))
+print(FindFactors(12354112323))
